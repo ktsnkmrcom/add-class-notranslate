@@ -1,6 +1,6 @@
 # add-class-notranslate
 
-Type: Chrome Extension
+Type: Chrome Extensions
 
 ## How to use
 
