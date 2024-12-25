@@ -1,6 +1,6 @@
 {
-  "name": "sample-notranslate",
-  "description": "Sample Chrome Extension",
+  "name": "Add Class Notranslate",
+  "description": "Don't translate the code",
   "version": "0.0.0",
   "manifest_version": 3,
   "content_scripts": [
